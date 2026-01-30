@@ -1,9 +1,8 @@
 ### Olá seja bem vindo(a) 👋
-
-- 🔭 Atualmente não trabalho
+- DBA Oracle Pleno
 - 🌱 Estudante de java e todo o seu ecosistema
 - 😄 pronomes: ele/dele
-- 💜Tenho conhecimento em HTML5, CSS, JavaScript, Java, React, bootstrap, SQLserver, Mysql.
+- 💜 Possuo habilidades em SQL Server e MySQL
 - 🎒Formado em Ciências da computação pela cruzeiro do sul.
   
 <div align="center">
